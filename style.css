@@ -1,0 +1,19 @@
+body {
+    background-image: url("Assets/rain\ street.jpeg");
+    background-size: cover;
+}
+
+nav {
+    background-color: azure;
+}
+
+main {
+    margin-top: auto;
+    background-color: azure;
+}
+
+img {
+    border: black;
+    border-width: medium;
+    border-style: solid;
+}

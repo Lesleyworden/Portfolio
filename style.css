@@ -17,3 +17,17 @@ img {
     border-width: medium;
     border-style: solid;
 }
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: azure;
+    color: black;
+    text-align: center;
+}
+@media (min-width: auto){
+    main {
+        float: center;
+    }
+}

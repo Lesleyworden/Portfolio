@@ -1,3 +1,5 @@
+
+/* Rain picture for background file */
 body {
     background-image: url("Assets/rain\ street.jpeg");
     background-size: cover;
@@ -11,7 +13,7 @@ main {
     margin-top: 100px;
     background-color: azure;
 }
-
+/* border for student image */
 img {
     border: black;
     border-width: medium;
@@ -25,6 +27,7 @@ footer{
     color: black;
     text-align: center;
 }
+
 @media (min-width: auto){
     main {
         float: center;

@@ -22,7 +22,6 @@ footer{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: azure;
     color: black;
     text-align: center;
 }
@@ -30,4 +29,3 @@ footer{
     main {
         float: center;
     }
-}

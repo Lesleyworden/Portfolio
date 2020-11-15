@@ -3,6 +3,7 @@
 body {
     background-image: url("Assets/rain\ street.jpeg");
     background-size: cover;
+    font-family: 'Lobster', cursive;
 }
 
 nav {
@@ -33,3 +34,12 @@ footer{
         float: center;
     }
 }
+h2 {
+    font-size: 60px
+
+}
+p {
+    font-family: 'Oswald', sans-serif;
+    font-size: larger;
+}
+

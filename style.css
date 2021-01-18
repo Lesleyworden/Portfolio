@@ -7,12 +7,12 @@ body {
 }
 
 nav {
-    background-color: aqua;
+    background-color: lightcyan;
 }
 
 main {
     margin-top: 100px;
-    background-color: aqua;
+    background-color: lightcyan;
 }
 /* border for student image */
 img {

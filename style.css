@@ -7,12 +7,12 @@ body {
 }
 
 nav {
-    background-color: azure;
+    background-color: aqua;
 }
 
 main {
     margin-top: 100px;
-    background-color: azure;
+    background-color: aqua;
 }
 /* border for student image */
 img {

@@ -7,12 +7,12 @@ body {
 }
 
 nav {
-    background-color: lightcyan;
+    background-color: #e6f2ff;
 }
 
 main {
     margin-top: 100px;
-    background-color: lightcyan;
+    background-color:#e6f2ff
 }
 /* border for student image */
 img {
